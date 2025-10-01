@@ -1,0 +1,14 @@
+{
+  "name": "edc-theme",
+  "version": "1.0.0",
+  "description": "EDC Stats Theme",
+  "author": {
+    "email": "your@email.com"
+  },
+  "engines": {
+    "ghost": ">=5.0.0"
+  },
+  "config": {
+    "posts_per_page": 10
+  }
+}
