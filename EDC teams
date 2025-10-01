@@ -1,0 +1,79 @@
+{
+  "season": "2024-2025",
+  "generated_at": "2025-09-26T20:00:00Z",
+  "teams": [
+    {
+      "id": "davies-boys",
+      "name": "Fargo Davies Eagles",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "north-boys",
+      "name": "Fargo North Spartans",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "south-boys",
+      "name": "Fargo South Bruins",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "central-boys",
+      "name": "GF Central Knights",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "red-river-boys",
+      "name": "GF Red River Roughriders",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "shanley-boys",
+      "name": "Shanley Deacons",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "wf-boys",
+      "name": "West Fargo Packers",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "horace-boys",
+      "name": "West Fargo Horace Hawks",
+      "gender": "boys",
+      "season": "2024-2025"
+    },
+    {
+      "id": "sheyenne-boys",
+      "name": "West Fargo Sheyenne Mustangs",
+      "gender": "boys",
+      "season": "2024-2025"
+    }
+  ],
+  "players": [
+    {
+      "id": "davies-player1",
+      "team_id": "davies-boys",
+      "name": "Player Name Here",
+      "season": "2024-2025",
+      "gender": "boys",
+      "number": "1",
+      "position": "G",
+      "class_year": "Sr",
+      "stats": {
+        "PPG": 0,
+        "RPG": 0,
+        "APG": 0
+      }
+    }
+  ],
+  "games": [],
+  "all_conference": []
+}

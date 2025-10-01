@@ -1,0 +1,16 @@
+{
+  "name": "ps3_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish_to_ghost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tryghost/admin-api": "^1.14.0"
+  },
+  "type": "module"
+}

@@ -1,0 +1,39 @@
+{
+  "season": "2024-2025",
+  "teams": [
+    {
+      "id": "fargo-north",
+      "name": "Fargo North Spartans",
+      "gender": "boys"
+    },
+    {
+      "id": "west-fargo",
+      "name": "West Fargo Packers",
+      "gender": "boys"
+    }
+  ],
+  "players": [
+    {
+      "id": "fargo-north-player1",
+      "team_id": "fargo-north",
+      "name": "Example Player",
+      "number": "23",
+      "position": "G",
+      "stats": {
+        "PPG": 15.2,
+        "RPG": 4.1,
+        "APG": 3.5
+      }
+    }
+  ],
+  "games": [
+    {
+      "id": "game-001",
+      "date": "2024-12-01",
+      "home_team_id": "fargo-north",
+      "away_team_id": "west-fargo",
+      "home_score": 68,
+      "away_score": 65
+    }
+  ]
+}
